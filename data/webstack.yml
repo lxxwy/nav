@@ -4,15 +4,15 @@
   icon: fa-user-group
   links: 
     - title: 里屋
-      logo: https://www.253874.net/icon/icon32.png
       url: https://www.253874.net/
+      logo: images/logos/253874.png
       description: 青少年技术论坛
     - title: 神秘岛
-      logo: https://www.smder.com/favicon.ico
+      logo: images/logos/smder.png
       url: https://www.smder.com/
       description: 神秘的小岛
     - title: 恩山无线
-      logo: images/logos/right.com.cn.png
+      logo: images/logos/right.png
       url: https://www.right.com.cn/
       description: 恩山无线 
 - taxonomy: 新闻媒体
@@ -234,43 +234,4 @@
           url: http://littlebigdetails.com/
           logo: images/logos/littlebigdetails.png
           description: Little Big Details is a curated collection of the finer details of design, updated every day. 
-      
-
-     
-- taxonomy: 友情链接
-  icon: fa-link
-  friend:
-    - title: 子页面一
-      url: sub1
-      description: 本站子页面1
-    - title: 子页面二
-      url: sub2
-      description: 本站子页面2
-    - title: webstack.cc
-      url: https://webstack.cc
-      description: webstack - 设计师网址导航
-    - title: 一为导航
-      url: https://nav.iowen.cn/
-      description: onenav主题演示站
-    - title: 趣导航
-      url: https://qssily.com/
-    - title: 404导航
-      url: https://www.404dh.icu/
-      description: 只导航优质资源
-    - title: OPENI
-      url: https://openi.cn/
-    - title: 飞猪ai导航
-      url: https://feizhuke.com/
-      description: AI工具集箱
-    - title: bioit导航
-      url: https://www.bioit.top/
-      description:
-    - title: 所长导航
-      url: https://liutongxu.github.io/
-      description:
-    - title: 一为webstack
-      url: https://webstack.iotheme.cn/
-    - title: iplaycode
-      url: https://iplaycode.github.io/nav/
-      description: iplaycode的demo导航网站
 ---
