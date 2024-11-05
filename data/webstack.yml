@@ -1,20 +1,20 @@
 ---
 
-- taxonomy: 社区
+- taxonomy: 常用社区
   icon: fa-user-group
   links: 
-    - title: Airbnb Design
-      url: https://airbnb.design
-      logo: images/logos/AirbnbDesign.png
-      description: Airbnb Design
+    - title: 里屋
+      logo: images/logos/253874.png
+      url: https://www.253874.net/
+      description: 青少年技术论坛
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
     - title: 里屋
-      logo: images/logos/producthunt.png
+      logo: images/logos/253874.png
       url: https://www.253874.net/
       description: 老龙食堂。
-- taxonomy: 新闻
+- taxonomy: 新闻媒体
   icon: fa-regular fa-newspaper
   links: 
     - title: 雷锋网
