@@ -6,56 +6,68 @@
     - title: 里屋
       url: https://www.253874.net/
       logo: images/logos/253874.png
-      description: 青少年技术论坛
+      description: 
     - title: 神秘岛
       logo: images/logos/smder.png
       url: https://www.smder.com/
-      description: 神秘的小岛
+      description: 
     - title: 恩山无线
       logo: images/logos/right.png
       url: https://www.right.com.cn/
-      description: 恩山无线 
+      description: 
 - taxonomy: 新闻媒体
   icon: fa-regular fa-newspaper
   links: 
-    - title: 里屋
-      url: https://www.253874.net/
-      logo: images/logos/253874.png
-      description: 青少年技术论坛
+    - title: 头条
+      url: https://www.toutiao.com/
+      logo: images/logos/toutiao.png
+      description: 
 
-- taxonomy: 灵感采集
+- taxonomy: AI智能
   icon: fa-regular fa-lightbulb
   links: 
-    - title: 里屋
-      url: https://www.253874.net/
-      logo: images/logos/253874.png
-      description: 青少年技术论坛
-
-      
-- taxonomy: 素材资源
-  icon: fa-thumbs-up
-  links: 
-    - title: 里屋
-      url: https://www.253874.net/
-      logo: images/logos/253874.png
-      description: 青少年技术论坛
+    - title: ChatGPT
+      url: https://chat.openai.com/
+      logo: images/logos/openai.png
+      description: 
+    - title: Gemini
+      url: https://gemini.google.com/
+      logo: images/logos/google.png
+      description: 
+      - title: Copilot
+      url: https://bing.com/chat
+      logo: images/logos/bing.png
+      description:     
+#- taxonomy: 素材资源
+#  icon: fa-thumbs-up
+#  links: 
+#    - title: XXX
+#      url: https://www.xxx.net/
+#      logo: images/logos/XXX.png
+#      description: XXX
         
       
 
 - taxonomy: 常用工具
   icon: fa-palette
   links: 
-    - title: 里屋
-      url: https://www.253874.net/
-      logo: images/logos/253874.png
-      description: 青少年技术论坛
+    - title: Speedtest
+      url: https://www.speedtest.net/
+      logo: images/logos/speedtest.png
+      description: 
 
-- taxonomy: 学习教程
+- taxonomy: 学习相关
   icon: fa-regular fa-folder-open
   links: 
-    - title: 里屋
-      url: https://www.253874.net/
-      logo: images/logos/253874.png
-      description: 青少年技术论坛
+    - title: Cloudflare
+      url: https://dash.cloudflare.com/login
+      logo: images/logos/cloudflare.png
+      description: 
+    - title: Oracle
+      url: https://www.oracle.com/cn/cloud/free/
+      logo: images/logos/oracle.png
+      description: 
 
+
+      
 ---
