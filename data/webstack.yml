@@ -7,6 +7,10 @@
       logo: images/logos/253874.png
       url: https://www.253874.net/
       description: 青少年技术论坛
+    - title: 神秘岛
+      logo: images/logos/smder.png
+      url: https://www.smder.com/
+      description: 神秘的小岛
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
