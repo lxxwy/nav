@@ -17,221 +17,44 @@
       description: 恩山无线 
 - taxonomy: 新闻媒体
   icon: fa-regular fa-newspaper
-  links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
+ links: 
+    - title: 里屋
+      url: https://www.253874.net/
+      logo: images/logos/253874.png
+      description: 青少年技术论坛
 
 - taxonomy: 灵感采集
   icon: fa-regular fa-lightbulb
-  list: 
-    - term: 发现产品
-      links:
-        - title: Producthunt
-          logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
-       
-      
-    - term: 界面灵感
-      links:
-        - title: Pttrns
-          logo: images/logos/Pttrns.png
-          url: https://www.pttrns.com/
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-      
-      
-    - term: 网页灵感
-      links:
-        - title: Awwwards
-          logo: images/logos/awwwards.png
-          url: https://www.awwwards.com/
-          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-      
+ links: 
+    - title: 里屋
+      url: https://www.253874.net/
+      logo: images/logos/253874.png
+      description: 青少年技术论坛
 
       
 - taxonomy: 素材资源
   icon: fa-thumbs-up
-  list: 
-    - term: 图标素材
-      links:
-        - title: Iconfinder
-          logo: images/logos/Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
-       
-      
-    - term: LOGO设计
-      links:
-        - title: Iconsfeed
-          logo: images/logos/iconsfeed.png
-          url: http://www.iconsfeed.com/
-          description: iOS icons gallery
-        
-
-    - term: 平面素材
-      links:
-        - title: freepik
-          logo: images/logos/freepik.png
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons.
-       
-      
-    - term: UI资源
-      links:
-        - title: Freebiesbug
-          logo: images/logos/freebiesbug.png
-          url: https://freebiesbug.com/
-          description: Hand-picked resources for web designer and developers, constantly updated.
-        
-      
-    - term: Sketch资源
-      links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: images/logos/Sketch.png
-          description: The digital design toolkit
-       
-      
-    - term: 字体资源
-      links:
-        - title: Google Font
-          url: https://fonts.google.com/
-          logo: images/logos/googlefont.png
-          description: Making the web more beautiful, fast, and open through great typography
-        
-      
-    - term: Mockup
-      links:
-        - title: MockupZone
-          url: https://mockup.zone/
-          logo: images/logos/MockupZone.png
-          description: Mockup Zone is an online store where you can find free and premium PSD mockup files to show your designs in a professional way.
-       
-      
-    - term: 摄影图库
-      links:
-        - title: Unsplash
-          url: https://unsplash.com/
-          logo: images/logos/unsplash.png
-          description: Beautiful, free photos.
-       
-      
-    - term: PPT资源
-      links:
-        - title: OfficePLUS
-          url: http://www.officeplus.cn/Template/Home.shtml
-          logo: images/logos/officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！
+   links: 
+    - title: 里屋
+      url: https://www.253874.net/
+      logo: images/logos/253874.png
+      description: 青少年技术论坛
         
       
 
 - taxonomy: 常用工具
   icon: fa-palette
-  list: 
-    - term: 图形创意
-      links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: images/logos/photoshop.png
-          description: Photoshop不需要解释
-       
-      
-    - term: 界面设计
-      links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: images/logos/sketchapp.png
-          description: The digital design toolkit
-        
-    - term: 交互动效
-      links:
-        - title: Adobe After Effects CC
-          url: https://www.adobe.com/cn/products/aftereffects/
-          logo: images/logos/AdobeAfterEffectsCC.png
-          description: 电影般的视觉效果和动态图形。
-        
-
-    - term: 在线配色
-      links:
-        - title: khroma
-          url: http://khroma.co/generator/
-          logo: images/logos/khroma.png
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-
-
-    - term: 在线工具
-      links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: images/logos/tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
-        
-        
-    - term: Chrome插件
-      links:
-        - title: wappalyzer
-          url: https://www.wappalyzer.com/
-          logo: images/logos/wappalyzer.png
-          description: Identify technology on websites
-       
-
+  links: 
+    - title: 里屋
+      url: https://www.253874.net/
+      logo: images/logos/253874.png
+      description: 青少年技术论坛
 
 - taxonomy: 学习教程
   icon: fa-regular fa-folder-open
-  list: 
-    - term: 设计规范
-      links:
-        - title: Design Guidelines
-          url: http://designguidelines.co/
-          logo: images/logos/designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
-        - title: Awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-          logo: images/logos/awesome_design_systems.png
-          description:  A collection of awesome design systems
-        - title: Material Design
-          url: https://material.io/guidelines/
-          logo: images/logos/Material_Design.png
-          description: Introduction - Material Design
-        - title: Human Interface Guidelines
-          url: https://developer.apple.com/ios/human-interface-guidelines
-          logo: images/logos/human_interface_guidelines.png
-          description: Human Interface Guidelines iOS
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: images/logos/photoshopetiquette.png
-          description: PS礼仪-WEB设计指南
-
-      
-    - term: 视频教程
-      links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: images/logos/PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place
-        
-        
-    - term: 设计文章
-      links:
-        - title: 优设网
-          url: http://www.uisdc.com/
-          logo: images/logos/uisdc.png
-          description: 设计师交流学习平台
-       
-    - term: 设计电台
-      links:
-        - title: UX Coffee
-          url: http://uxcoffee.co/
-          logo: images/logos/uxcoffee.png
-          description: 《UX Coffee 设计咖》是一档关于用户体验的播客节目。我们邀请来自硅谷和国内的学者和职人来聊聊「产品设计」、「用户体验」和「个人成长」。
-
-
-    - term: 交互设计
-      links:
-        - title: Little Big Details
-          url: http://littlebigdetails.com/
-          logo: images/logos/littlebigdetails.png
-          description: Little Big Details is a curated collection of the finer details of design, updated every day. 
+  links: 
+    - title: 里屋
+      url: https://www.253874.net/
+      logo: images/logos/253874.png
+      description: 青少年技术论坛
 ---
