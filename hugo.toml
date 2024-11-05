@@ -1,4 +1,4 @@
-#baseURL = "http://example.org/"
+baseURL = "http://example.org/"
 languageCode = "zh-CN"
 title = "O(∩_∩)O"
 #theme = "hugo-webstack"
