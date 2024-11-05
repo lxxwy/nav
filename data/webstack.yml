@@ -1,5 +1,12 @@
 ---
 
+- taxonomy: 社区
+  icon: fa-user-group
+  links: 
+    - title: Airbnb Design
+      url: https://airbnb.design
+      logo: images/logos/AirbnbDesign.png
+      description: Airbnb Design
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
@@ -7,9 +14,7 @@
       logo: images/logos/producthunt.png
       url: https://www.253874.net/
       description: 老龙食堂。
-    
-
-- taxonomy: 社区咨询
+- taxonomy: 新闻
   icon: fa-regular fa-newspaper
   links: 
     - title: 雷锋网
@@ -229,14 +234,6 @@
           logo: images/logos/littlebigdetails.png
           description: Little Big Details is a curated collection of the finer details of design, updated every day. 
       
-
-- taxonomy: UED团队
-  icon: fa-user-group
-  links: 
-    - title: Airbnb Design
-      url: https://airbnb.design
-      logo: images/logos/AirbnbDesign.png
-      description: Airbnb Design
 
      
 - taxonomy: 友情链接
