@@ -32,11 +32,11 @@
       description: 
     - title: Gemini
       url: https://gemini.google.com/
-      logo: images/logos/google.png
+      logo: images/logos/gemini.png
       description: 
     - title: Copilot
       url: https://bing.com/chat
-      logo: images/logos/bing.png
+      logo: images/logos/copilot.png
       description:     
 #- taxonomy: 素材资源
 #  icon: fa-thumbs-up
